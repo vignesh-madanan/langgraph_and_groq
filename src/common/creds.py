@@ -11,4 +11,4 @@ class Credentials:
 
     def __test__(self) --> None:
         for element in self.__dict__.keys():
-            
+            pass
